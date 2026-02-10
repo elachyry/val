@@ -6,6 +6,7 @@ export default defineConfig({
   root: 'client',
   base: '/val/',
   build: {
-    outDir: '../dist'
+    outDir: '../dist' 
+    
   }
 })
